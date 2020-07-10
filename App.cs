@@ -7,7 +7,7 @@ using Xamarin.Forms;
 
 namespace Barber
 {
-	public class App : Application   //"Aplicacion conecta todos los 3 proyectos"
+	public class App : Application 
 	{
 
 		public static MasterPage _masterPage;
